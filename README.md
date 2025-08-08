@@ -55,9 +55,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 <img width="1229" height="735" alt="Screenshot 2025-08-07 161559" src="https://github.com/user-attachments/assets/f851ce46-19d3-4179-9dee-dfdfd74c5a9d" />
-
 <img width="1234" height="731" alt="Screenshot 2025-08-07 162058" src="https://github.com/user-attachments/assets/b0289d5c-b0ef-4494-9ab6-61228dd38246" />
-
 
 ### PREPROCESSING
 ### Procedure:
